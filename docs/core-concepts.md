@@ -1,4 +1,5 @@
 # Test 1
-- Test Text
+  * Test Text
+
 # Test 2
-- Test Text 2
+  * Test Text 2

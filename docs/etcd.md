@@ -7,16 +7,16 @@ A distributed reliable key-value `(JSON)` store,
 
 ```diff
 
-+ #Download the binary compressed etcd
+! Download the binary compressed etcd
 + curl -L https://github.com/etcd-io/etcd/releases/download/v3.3.11/etcd-v3.3.11-linux-amd64.tar.gz -o etcd-v3.3.11-linux-amd64.tar.gz
   
-+ #Extract The compressed tarball 
+! Extract The compressed tarball 
 + tar xvf etcd-v3.3.11-linux-amd64.tar.gz
 
-+ #Enter the directory of extracted etcd
+! Enter the directory of extracted etcd
 + cd etcd-v3.3.11-linux-amd64/
   
-+ #Run etcd binary
+! Run etcd binary
 + ./etcd
 
 ```

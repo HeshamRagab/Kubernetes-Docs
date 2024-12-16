@@ -1,5 +1,4 @@
-# (ETCD)[etcd.md]
-  * Test Text
+* (ETCD)[etcd.md]
 
 # Test 2
   * Test Text 2

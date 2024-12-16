@@ -1,4 +1,3 @@
-# [ETCD](etcd.md)
+# Core Concepts
 
-# Test 2
-  * Test Text 2
+* [ETCD](etcd.md)

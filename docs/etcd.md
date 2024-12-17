@@ -27,9 +27,9 @@ A distributed reliable **key-value `(JSON)` store**,
 
 ## Comand Lines
 
-> [!WARNING] [!IMPORTANT]
+> [!WARNING]
 > Environment variable ETCDCTL_API is not set; defaults to etcdctl v2.
-
+>
 > Set environment variable ETCDCTL_API=3 to use v3 API or ETCDCTL_API=2 to use v2 API.
 
     

@@ -1,10 +1,12 @@
 # ETCD
 
 ## What is etcd ?
-A distributed reliable key-value `(JSON)` store,
+A distributed reliable **key-value `(JSON)` store**,
   That is simple, secure, fast and reliable.
 
-## how to install and run it from binary ?
+## How to install and run it ?
+
+### From binary
 
 ```diff
 

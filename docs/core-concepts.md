@@ -1,3 +1,3 @@
 # Core Concepts
 
-* [ETCD](etcd.md)
+* __[ETCD](etcd.md)__
